@@ -1,4 +1,3 @@
 RewriteEngine On
 RewriteCond %{HTTP_HOST} ^digitaleforce.github.io
-RewriteRule ^(.*) infinityfree.com [P]
-ErrorDocument 404 /404.html
+RewriteRule ^(.*) https://infinityfree.com/$1 [P]
