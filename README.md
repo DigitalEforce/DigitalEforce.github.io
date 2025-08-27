@@ -7,9 +7,27 @@ Welcome to **Digital eForce Portfolio**, showcasing my projects, skills, and ach
 You can view the live site here:  
 [https://DigitalEforce.github.io](https://DigitalEforce.github.io)
 
-## 💼 About
+## ⚡ Our Capabilities
 
-This portfolio highlights my work in web development, including projects built with HTML, CSS, JavaScript, and other web technologies. It demonstrates my skills in front-end development, responsive design, and modern web practices.
+We provide professional services with a creative touch.
+
+- **🏆 We're Skilled Developers**  
+  *Web Development*  
+  PHP is one of the most popular programming languages. We build projects ranging from small websites to complex applications.
+
+- **🎈 We're Creative**  
+  *Web Designing*  
+  We create innovative and contemporary designs that excite, motivate, and engage users.
+
+- **⚛ We're Passionate**  
+  *Search Engine Optimization*  
+  We follow strict web standards to make your site SEO-friendly and attract new visitors.
+
+- **🛒 We're Professional**  
+  *Ecommerce Integration*  
+  Multi-dimensional e-commerce solutions tailored to your business requirements.
+
+
 ## 🛠 Services
 
 | Service | Proficiency |
@@ -20,6 +38,7 @@ This portfolio highlights my work in web development, including projects built w
 | 🛒 Ecommerce Integration | 80% |
 | ✅ Quality Assurance | 99% |
 | 🛡 Cyber Security | 91% |
+
 
 ## 🔧 Features
 
