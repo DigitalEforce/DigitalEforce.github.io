@@ -47,7 +47,7 @@ cd DigitalEforce.github.io
 
 Feel free to reach out via:
 
-- Email: [PingMe](nrehman86@gmail.com)
+- Email: nrehman86@gmail.com
 - GitHub: [Digital eForce](https://github.com/DigitalEforce)
 
 ---
