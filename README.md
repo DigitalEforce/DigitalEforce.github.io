@@ -1,6 +1,6 @@
-# DigitalEforce Portfolio
+# Digital eForce Portfolio
 
-Welcome to **DigitalEforce Portfolio**, showcasing my projects, skills, and achievements as a web developer/designer.
+Welcome to **Digital eForce Portfolio**, showcasing my projects, skills, and achievements as a web developer/designer.
 
 ## 🌐 Live Website
 
@@ -47,8 +47,8 @@ cd DigitalEforce.github.io
 
 Feel free to reach out via:
 
-- Email: nrehman86@gmail.com
-- GitHub: [DigitalEforce](https://github.com/DigitalEforce)
+- Email: [PingMe](nrehman86@gmail.com)
+- GitHub: [Digital eForce](https://github.com/DigitalEforce)
 
 ---
 
