@@ -10,6 +10,16 @@ You can view the live site here:
 ## 💼 About
 
 This portfolio highlights my work in web development, including projects built with HTML, CSS, JavaScript, and other web technologies. It demonstrates my skills in front-end development, responsive design, and modern web practices.
+## 🛠 Services
+
+| Service | Proficiency |
+|---------|------------|
+| 💻 Web Development | 100% |
+| 🎨 Web Designing | 90% |
+| 🔍 Search Engine Optimization | 86% |
+| 🛒 Ecommerce Integration | 80% |
+| ✅ Quality Assurance | 99% |
+| 🛡 Cyber Security | 91% |
 
 ## 🔧 Features
 
